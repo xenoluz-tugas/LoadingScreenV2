@@ -1,0 +1,14 @@
+C:\Users\Az\Documents\Mapel\Programming\LoadingScreenV2\bin\Debug\net10.0\LoadingScreenV2.exe
+C:\Users\Az\Documents\Mapel\Programming\LoadingScreenV2\bin\Debug\net10.0\LoadingScreenV2.deps.json
+C:\Users\Az\Documents\Mapel\Programming\LoadingScreenV2\bin\Debug\net10.0\LoadingScreenV2.runtimeconfig.json
+C:\Users\Az\Documents\Mapel\Programming\LoadingScreenV2\bin\Debug\net10.0\LoadingScreenV2.dll
+C:\Users\Az\Documents\Mapel\Programming\LoadingScreenV2\bin\Debug\net10.0\LoadingScreenV2.pdb
+C:\Users\Az\Documents\Mapel\Programming\LoadingScreenV2\obj\Debug\net10.0\LoadingScreenV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Az\Documents\Mapel\Programming\LoadingScreenV2\obj\Debug\net10.0\LoadingScreenV2.AssemblyInfoInputs.cache
+C:\Users\Az\Documents\Mapel\Programming\LoadingScreenV2\obj\Debug\net10.0\LoadingScreenV2.AssemblyInfo.cs
+C:\Users\Az\Documents\Mapel\Programming\LoadingScreenV2\obj\Debug\net10.0\LoadingScreenV2.csproj.CoreCompileInputs.cache
+C:\Users\Az\Documents\Mapel\Programming\LoadingScreenV2\obj\Debug\net10.0\LoadingScreenV2.dll
+C:\Users\Az\Documents\Mapel\Programming\LoadingScreenV2\obj\Debug\net10.0\refint\LoadingScreenV2.dll
+C:\Users\Az\Documents\Mapel\Programming\LoadingScreenV2\obj\Debug\net10.0\LoadingScreenV2.pdb
+C:\Users\Az\Documents\Mapel\Programming\LoadingScreenV2\obj\Debug\net10.0\LoadingScreenV2.genruntimeconfig.cache
+C:\Users\Az\Documents\Mapel\Programming\LoadingScreenV2\obj\Debug\net10.0\ref\LoadingScreenV2.dll
